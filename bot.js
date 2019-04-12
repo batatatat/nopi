@@ -278,4 +278,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
  
  
  
-client.login(process.env.BOT_TOKEN);
+client.login(NTY2MjgyMTMyNDQ4NzM5MzI5.XLCtcQ.SRc2IuqhGJldxo8023_eqVRMkWM);
